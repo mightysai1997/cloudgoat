@@ -2,7 +2,6 @@ Dear Tomas - For the LAST TIME, here are the database credentials. Save them to 
 
 DB name: cloudgoat
 Username: cgadmin
-Password: Purplepwny2029
 
 Sincerely,
 Lara
