@@ -1,1 +1,1 @@
-var password = "123password123";
+const password = "123password123";
