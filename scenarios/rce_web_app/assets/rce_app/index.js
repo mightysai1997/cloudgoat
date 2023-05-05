@@ -1,1 +1,1 @@
-var password = “mightysai”;
+var password = “S@ltPepp3r&”;
