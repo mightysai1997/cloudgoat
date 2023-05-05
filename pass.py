@@ -1,4 +1,4 @@
-password = "Mighty"
+password = "S@ltPepp3r&"
 
 user_input = input("Enter password: ")
 
